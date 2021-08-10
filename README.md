@@ -48,7 +48,7 @@ YelpCamp is a campground review application for campground visitors. Users have 
 
 ## Getting Started
 
-This app contains API secrets and passwords that have been hidden in an .env file for security purposes, so the app cannot be run with all of its features on your local machine without these variables. However, feel free to clone this repository, then create an .env file and add values to the following variables:
+This app contains API secrets and passwords that have been hidden in an .env file for security purposes, so the app cannot be run with all of its features on your local machine without these variables. However, feel free to clone this repository, create an .env file and add values to the following variables:
 
 ```
 CLOUDINARY_CLOUD_NAME=
